@@ -1,5 +1,4 @@
 <?php
-    include("db.php");
     require_once('phpqrcode/qrlib.php'); 
 	
 	$qrvalue = "Hello...";
